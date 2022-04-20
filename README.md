@@ -1,2 +1,3 @@
-# my_blog
-a resouce for making blog with django
+# some portofolio project
+
+This folder contain some portofolio from some framework.
